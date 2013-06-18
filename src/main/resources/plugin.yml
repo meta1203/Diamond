@@ -1,0 +1,7 @@
+author: meta1203
+database: false
+description: Minecraft Bitcoin designed as a portable (cross-server) currency.
+main: me.meta1203.plugins.diamond.Diamond
+name: Diamond
+startup: postworld
+version: '0.1'
